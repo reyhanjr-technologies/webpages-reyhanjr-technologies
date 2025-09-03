@@ -1,0 +1,1 @@
+Sementara waktu website atau webpages untuk reyhanjr-technologies berada di url https://reyhanjr-technologies.github.io/webpages-reyhanjr-technologies , dan dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya menjadi url https://reyhanjr-technologies.github.io . Terimakasih.
