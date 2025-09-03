@@ -1,5 +1,5 @@
-# reyhanjr-technologies by Reyhan well-known name is Reyhan Jr.
-Sementara waktu website atau webpages untuk reyhanjr-technologies berada di url https://reyhanjr-technologies.github.io/webpages-reyhanjr-technologies , dan dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya menjadi url https://reyhanjr-technologies.github.io . Terimakasih.
+# reyhanjr-technologies by Reyhan.
+reyhanjr-technologies by Reyhan well-known name is Reyhan Jr.
 
 ## url GitHub of reyhanjr-technologies
 - https://github.com/reyhanjr-technologies
