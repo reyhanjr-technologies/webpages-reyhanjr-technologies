@@ -1,13 +1,15 @@
 # reyhanjr-technologies by Reyhan.
-reyhanjr-technologies by Reyhan well-known name is Reyhan Jr.
+- reyhanjr-technologies by Reyhan well-known name is Reyhan Jr.
+- Nothing to show on here.
 
-## url GitHub of reyhanjr-technologies
+
+## url GitHub Profiles of reyhanjr-technologies
 - https://github.com/reyhanjr-technologies
 
 ## Webpages of reyhanjr-technologies
 - https://reyhanjr-technologies.github.io
 
-## Products of reyhanjr-technologies 
+## Products of reyhanjr-technologies.
 - https://github.com/reyhanjr-technologies/internet
 - https://github.com/an-about/our-diary
 - https://github.com/this-version/digital
